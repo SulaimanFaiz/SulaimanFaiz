@@ -1,18 +1,21 @@
-<h2 align="left">Hi 👋! My name is Sulaiman Faiz Tsaqib</h2>
+
+
+<h1 align="center">Hi 👋! My name is Sulaiman Faiz Tsaqib</h1>
+
+
+
+<h3 align="left">About me ✨</h3>
+<hr>
 
 ###
 
-<h2 align="left">About me ✨</h2>
+<h4 align="left">I am an AI Engineering student at Institut Teknologi Sepuluh Nopember (ITS) with a strong foundation in software development. I graduated from Vocational High School majoring in Software Engineering , where I focused on web development and gained hands-on experience through an internship program.<br><br>I am currently a beginner in Machine Learning, but I am highly eager to learn and continuously develop my skills in AI and data-driven technologies. I am motivated to explore new concepts, build practical projects, and improve through real-world experience.<br><br>With a background in web development and a growing interest in Artificial Intelligence, I aim to bridge software engineering and AI to create impactful and innovative solutions.</h4>
 
 ###
 
-<p align="left">I am an AI Engineering student at Institut Teknologi Sepuluh Nopember (ITS) with a strong foundation in software development. I graduated from Vocational High School majoring in Software Engineering , where I focused on web development and gained hands-on experience through an internship program.<br><br>I am currently a beginner in Machine Learning, but I am highly eager to learn and continuously develop my skills in AI and data-driven technologies. I am motivated to explore new concepts, build practical projects, and improve through real-world experience.<br><br>With a background in web development and a growing interest in Artificial Intelligence, I aim to bridge software engineering and AI to create impactful and innovative solutions.</p>
+<h3 align="left">Stack 👨‍💻</h3>
 
-###
-
-<h2 align="left">Stack 👨‍💻</h2>
-
-###
+<hr>
 
 <img align="right" height="150" src="https://media.giphy.com/media/kBDv24Ub5VQB3sHDjR/giphy.gif"  />
 
@@ -46,12 +49,12 @@
 
 ###
 
-<h3 align="left">Connect With Me !  🫵</h2>
+<h3 align="left">Connect With Me !  🫵</h3>
 
-###
+<hr>
 
 <div align="left">
-  <a href="www.linkedin.com/in/sulaimanfaiz" target="_blank">
+  <a href="https://www.linkedin.com/in/sulaimanfaiz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/sulaimanfaiz_/" target="_blank">
