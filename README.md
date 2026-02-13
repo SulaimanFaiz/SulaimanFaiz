@@ -1,12 +1,16 @@
-<h2 align="center">Hi 👋! My name is Sulaiman Faiz Tsaqib</h2>
+<h2 align="left">Hi 👋! My name is Sulaiman Faiz Tsaqib</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me ✨</h2>
 
 ###
 
 <p align="left">I am an AI Engineering student at Institut Teknologi Sepuluh Nopember (ITS) with a strong foundation in software development. I graduated from Vocational High School majoring in Software Engineering , where I focused on web development and gained hands-on experience through an internship program.<br><br>I am currently a beginner in Machine Learning, but I am highly eager to learn and continuously develop my skills in AI and data-driven technologies. I am motivated to explore new concepts, build practical projects, and improve through real-world experience.<br><br>With a background in web development and a growing interest in Artificial Intelligence, I aim to bridge software engineering and AI to create impactful and innovative solutions.</p>
+
+###
+
+<h2 align="left">Stack 👨‍💻</h2>
 
 ###
 
@@ -42,6 +46,10 @@
 
 ###
 
+<h2 align="left">Connect With Me !  🫵</h2>
+
+###
+
 <div align="left">
   <a href="www.linkedin.com/in/sulaimanfaiz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -53,11 +61,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SulaimanFaiz/SulaimanFaiz/output/snake.svg" alt="Snake animation" />
 
 ###
